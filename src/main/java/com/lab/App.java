@@ -35,7 +35,7 @@ public class App {
 		sd1.setDept("cse");
 		sd1.setProg("btech");
 		sd1.setDob("2004-03-27");		
-		sd1.setContno("9849728702");
+		sd1.setContno("9154669874");
 		sd1.setGradStatus("yes");
 		sd1.setCgpa((float) 9.8);
 		sd1.setNoofBlacklogs(1);
